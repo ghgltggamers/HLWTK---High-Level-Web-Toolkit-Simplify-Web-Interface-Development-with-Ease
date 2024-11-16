@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLWTK Documentation</title>
+</head>
+<body>
+    
+</body>
+<script src="hlwtk.js"></script>
+<script>
+    const component = HLWTK_Component();
+    component.control.content(`<div>Hello world</div>`);
+    component.control.make();
+
+    const component2 = HLWTK_Component();
+    component2.control.content('This is from component2');
+    component2.control.make(component, HLWTK_COMPONENT);
+    // component2.control.make(component, HLWTK_COMPONENT);
+
+    component2.control.bake(component, HLWTK_COMPONENT);
+    // HLWTK_Make(component);
+</script>
+</html>
