@@ -175,4 +175,6 @@ Use built-in error handling for methods like make() and dispose().
 #### 5. Do not use direct root
 Use built-in methods of control system and avoid direct use of root.
 
+## Contributing checkout the CONTRIBUTING.md
+
 Thanks for reading this documentation was written entirely by ghgltggamer on 1:00 pm HLWTK first release
