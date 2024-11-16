@@ -17,8 +17,7 @@ This section outlines which versions of HLWTK are currently supported with secur
 If you have found a security vulnerability or issue in **HLWTK**, we encourage you to report it as soon as possible. Your contributions help ensure the security of the project for all users.
 
 ### How to Report:
-- Please report vulnerabilities by opening an issue in the [security advisories section](https://github.com/yourusername/hlwtk/security/advisories) of the repository.
-- You can also email us directly at [security@example.com] for confidential vulnerability reports.
+- Please report vulnerabilities by opening an issue in the [security advisories section](https://github.com/ghgltggamers/HLWTK---High-Level-Web-Toolkit-Simplify-Web-Interface-Development-with-Ease/security/advisories) of the repository.
 
 ### What to Expect:
 - We aim to respond to all security reports within **48 hours**.
