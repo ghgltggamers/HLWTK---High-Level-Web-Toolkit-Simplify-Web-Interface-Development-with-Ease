@@ -142,7 +142,7 @@ Example let's create a widget API with HLWTK
 
 function myApi_Button_new(label){// a function for creating button
     let component = HLWTK_Component();
-    component.content(`<button>${label}</button>`);
+    component.control.content(`<button>${label}</button>`);
     return component.control; // output the control system of component
 }
 
